@@ -33,3 +33,7 @@ If issues persist with the pynput module you can check the version of python you
 version 3.10
 
 You may also uninstall pynput by using the 'pip uninstall pynput' in cmd and reinstalling using the command 'pip3 -m pynput'
+
+
+
+GUI and additional features coming soon!!
