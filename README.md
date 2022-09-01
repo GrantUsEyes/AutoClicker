@@ -14,10 +14,18 @@ Download the recommended x64 version for Windows at bottom of the screen
 
 
 Then you must download and ensure the pynput module is installed (detailed in first steps of geeksforgeeks link above) or follow these steps:
-> Press start
-> Type CMD then hit Enter
-> pip install pynput
-> hit Enter
+
+
+Press start
+
+Type CMD then hit Enter
+
+pip install pynput
+
+hit Enter
+
+
+
 
 Then you must open this python file and run by hitting the 'Run Module' button in the top tab of IDLE.
 
